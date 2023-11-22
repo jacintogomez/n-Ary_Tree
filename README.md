@@ -1,4 +1,4 @@
-# n-Ary_Tree
+# n-Ary Tree
 
 Navigate to directory and run `python n-ary_tree.py`
 
